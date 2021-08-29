@@ -32,12 +32,12 @@ Running as a service is done through the standard Service Management Console. To
 
 4. Removal:
 To uninstall the service, run the command "YellowWatcher.exe --mode = uninstall" or "YellowWatcher.exe -Muninstall" in the console.
+  
+![ScreenShot](screenshots/001.png)  
 
-![service](https://github.com/sdf1979/YellowWatcher/tree/main/screenshots/001.png)  
+![command line help](screenshots/002.png)  
 
-![command line help](https://github.com/sdf1979/YellowWatcher/tree/main/screenshots/002.png)  
+![counters](screenshots/003.png)  
 
-![counters](https://github.com/sdf1979/YellowWatcher/tree/main/screenshots/003.png)  
-
-![counters](https://github.com/sdf1979/YellowWatcher/tree/main/screenshots/004.png)  
+![counters](screenshots/004.png)  
 
